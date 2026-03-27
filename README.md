@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jezeer Ahamed</h1>
+<h3 align="center">AI Builder | Physics Educator | Future Founder</h3>
 
-<!--
-**JezeerAhamed/JezeerAhamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🚀 Building: ICONIC ACADEMY (AI-powered learning platform)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Focus: AI, LLMs, Flutter Apps, Physics Education
+
+---
+
+### 🛠 Tech Stack
+- Python | Flutter | Firebase | OpenAI API
+- HTML | CSS | JavaScript
+- Machine Learning | Data Science
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+### 🔥 Projects
+- 📱 Physics AI App (Flutter + AI)
+- 🌱 Aeroponic Farming System
+- 🌐 Nature Tourism Website
+
+---
+
+### 📫 Connect with me
+- LinkedIn: (your link)
+- Email: (your email)
