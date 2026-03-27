@@ -79,21 +79,21 @@ Real-time sensors, growth prediction, automated controls & sustainability dashbo
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jezeerahamed&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&border_radius=20" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jezeerahamed&layout=compact&theme=radical&hide_border=true&langs_count=10&border_radius=20" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jezeerahamed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=20" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jezeerahamed&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&border_radius=20" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jezeerahamed&theme=radical&hide_border=true&border_radius=20" />
+  <img src="https://streak-stats.demolab.com/?user=jezeerahamed&theme=tokyonight&hide_border=true&border_radius=20" />
 </p>
 
-<!-- 🔥 Animated Activity Graph -->
+<!-- 🔥 Clean GitHub-style Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jezeerahamed&theme=radical&hide_border=true&radius=20&color=00F5FF&line=7B00FF&point=FF00C8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jezeerahamed&theme=tokyonight&hide_border=true&radius=20" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jezeerahamed&theme=radical&no-bg=true&margin-w=15&row=1&column=4&border_radius=20" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jezeerahamed&theme=tokyonight&no-bg=true&margin-w=15&row=1&column=4&border_radius=20" />
 </p>
 
 ---
