@@ -8,24 +8,26 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Engineering Undergraduate
-- 🧠 AI & Machine Learning Enthusiast
-- 🎯 Building **ICONIC ACADEMY** – AI-powered learning platform for A/L students
-- 🎤 Physics Teacher simplifying complex concepts
+- 🎓 Engineering Undergraduate  
+- 🧠 AI & Machine Learning Enthusiast  
+- 🎯 Founder of **ICONIC ACADEMY** – AI-powered platform for A/L students  
+- 🎤 Physics Teacher simplifying complex concepts  
+
+> “Not just learning AI — building real-world impact with it.”
 
 ---
 
 ## 🧠 My Focus
-- 🤖 AI Apps (LLMs, Speech, Assistants)
-- 📱 Flutter Mobile Development
-- 🎓 EdTech Innovation
-- 📊 Data Science & ML
+- 🤖 AI Apps: LLMs, Speech, Embeddings  
+- 📱 Flutter Mobile Development  
+- 🎓 EdTech Innovation & Structured Learning  
+- 📊 Data Science & Machine Learning  
 
 ---
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flutter,firebase,js,html,css,git,github">
+  <img src="https://skillicons.dev/icons?i=python,flutter,firebase,js,html,css,git,github" />
 </p>
 
 ---
@@ -35,31 +37,38 @@
 ### 📱 Physics AI Assistant
 > Voice + Text AI app for A/L Physics students (Tamil & English)
 
+### 🌐 ICONIC Academy
+> Structured learning + AI-powered education platform
+
 ### 🌱 Aeroponic Smart Farming
 > Vertical farming system with optimized growth
 
-### 🌐 ICONIC Academy Platform
-> Structured learning + AI-powered education system
+---
+
+## 🌐 Portfolio
+Check out my full AI + Physics portfolio here: [iconic-portfolio](https://iconic-portfolio.vercel.app)
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jezeerahamed&show_icons=true&theme=tokyonight">
-  <img src="https://streak-stats.demolab.com/?user=jezeerahamed&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=jezeerahamed&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=jezeerahamed&theme=tokyonight" />
 </p>
 
 ---
 
-## 🎯 Vision
-> To build Sri Lanka’s most impactful AI-powered education platform
+## 💡 What Makes Me Different
+Most developers build apps. I build **real solutions for real students**.  
+Teaching + AI + Classroom-tested systems = **unfair advantage** in EdTech.
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: your email
-- 💼 LinkedIn: your link
+- 📧 Email: your email  
+- 💼 LinkedIn: your link  
+- 🌐 Portfolio: [iconic-portfolio](https://iconic-portfolio.vercel.app)  
 
 ---
 
-⭐ “Not just learning AI — building real-world impact with it.”
+⭐ Let’s build AI-powered education that actually works!
