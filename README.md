@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A66C2&height=320&section=header&text=%E2%9A%A1%20Jezeer%20Ahamed&fontSize=85&fontColor=ffffff&animation=wave&font=Poppins&desc=AI%20Builder%20%E2%80%A2%20Physics%20Educator%20%E2%80%A2%20Founder%20of%20ICONIC%20ACADEMY&descSize=22&descAlign=center&descColor=00FFAA" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=00F5FF,7B00FF,FF00C8&height=340&section=header&text=%E2%9A%A1%20Jezeer%20Ahamed&fontSize=90&fontColor=FFFFFF&animation=wave&font=Poppins&desc=AI%20Builder%20%E2%80%A2%20Physics%20Educator%20%E2%80%A2%20Founder%20of%20ICONIC%20ACADEMY&descSize=26&descAlign=center&descColor=00F5FF" />
 </p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=jezeerahamed">
-    <img src="https://komarev.com/ghpvc/?username=jezeerahamed&label=Profile%20Views&color=00FFAA&style=flat&base=0" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=jezeerahamed&label=Profile%20Views&color=00F5FF&style=for-the-badge&base=0" alt="Profile Views" />
   </a>
 </p>
 
@@ -12,17 +12,17 @@
 <h3 align="center">AI Builder • Physics Educator • Founder of ICONIC ACADEMY</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=29&duration=2200&pause=1000&color=00FFAA&center=true&vCenter=true&width=720&height=65&lines=Building+AI+for+Education;Physics+Made+Simple;Future+EdTech+Founder;Real+Impact%2C+Not+Just+Code;From+Classroom+to+Global+Scale;AI+that+actually+helps+students" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=30&duration=1800&pause=900&color=00F5FF&center=true&vCenter=true&width=760&height=68&lines=Building+AI+for+Education;Physics+Made+Simple;Future+EdTech+Founder;Real+Impact%2C+Not+Just+Code;From+Classroom+to+Global+Scale;AI+that+understands+students" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-**Engineering Undergraduate** passionate about **AI, Physics & EdTech**.  
-I teach **A/L Physics** in real classrooms (Tamil & English) while building AI tools that make learning faster, smarter, and more engaging.
+**Engineering Undergraduate** from Sri Lanka 🇱🇰, blending **AI engineering** with **real classroom teaching**.  
+I simplify A/L Physics (Tamil & English) while building production-ready AI tools that students actually use every day.
 
-Founder of **ICONIC ACADEMY** — an AI-powered structured learning platform built from real student feedback.
+Founder of **ICONIC ACADEMY** — an AI-first platform born from live student feedback and classroom-tested results.
 
 > “Not just learning AI — building real-world impact with it.”
 
@@ -30,11 +30,11 @@ Founder of **ICONIC ACADEMY** — an AI-powered structured learning platform bui
 
 ## 🧠 My Focus & Expertise
 
-- 🤖 **AI & LLMs** — ChatGPT, embeddings, speech-to-text, voice AI tutors  
-- 📱 **Mobile Development** — Flutter (beautiful cross-platform apps)  
-- 🌐 **Web Development** — React, Next.js, Tailwind CSS  
-- 📊 **Data Science & ML** — Analytics, predictive models, personalized learning  
-- 🎓 **EdTech Innovation** — Classroom-tested AI platforms for A/L students  
+- 🤖 **AI & LLMs** — Voice AI tutors, embeddings, ChatGPT integrations, speech recognition  
+- 📱 **Flutter Mobile Apps** — Stunning cross-platform experiences  
+- 🌐 **Next.js & React** — Lightning-fast web platforms  
+- 📊 **Data Science & ML** — Personalized learning analytics & predictive models  
+- 🎓 **EdTech Innovation** — Structured A/L learning systems with real classroom validation  
 - 🏆 **Certified** — IBM Data Science • IBM AI Engineering
 
 ---
@@ -42,16 +42,16 @@ Founder of **ICONIC ACADEMY** — an AI-powered structured learning platform bui
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,flutter,react,nextjs,tailwind,firebase,nodejs,git,github,vscode,openai&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,flutter,react,nextjs,tailwind,firebase,nodejs,git,github,vscode,openai,figma&perline=9&theme=light" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-Expert-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-Expert-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/AI+%26+LLMs-Expert-0A66C2?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/IBM+AI-Professional-1F4A8C?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Expert-00F5FF?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-Expert-00F5FF?style=for-the-badge&logo=flutter&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-Expert-7B00FF?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-Expert-FF00C8?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI+%26+LLMs-Expert-00F5FF?style=for-the-badge&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/IBM+AI-Professional-7B00FF?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
 ---
@@ -60,19 +60,19 @@ Founder of **ICONIC ACADEMY** — an AI-powered structured learning platform bui
 
 ### 📱 Physics AI Assistant
 **Voice + Text AI tutor for A/L Physics (Tamil & English)**  
-Real-time voice interaction, instant explanations, problem solving & feedback.  
-**Tech:** Flutter • LLMs • Speech Recognition  
+Real-time voice conversations, instant concept breakdowns, problem solving & progress tracking.  
+**Tech:** Flutter • LLMs • Speech-to-Text  
 **[Live Demo](https://iconic-portfolio.vercel.app)** • **[GitHub](https://github.com/jezeerahamed)**
 
 ### 🌐 ICONIC Academy
-**Full AI-powered structured learning platform for A/L students**  
-Personalized paths, smart quizzes, progress analytics & classroom integration.  
+**AI-powered structured learning platform for A/L students**  
+Personalized study paths, smart quizzes, analytics & seamless classroom integration.  
 **Tech:** Next.js • Flutter • Firebase • AI Embeddings  
 **[Live Demo](https://iconic-portfolio.vercel.app)**
 
 ### 🌱 Aeroponic Smart Farming
 **IoT + AI vertical farming optimization system**  
-Real-time sensors, growth prediction & automated controls.  
+Real-time sensors, growth prediction, automated controls & sustainability dashboard.  
 **Tech:** Python • ML • IoT  
 **[Demo in Portfolio](https://iconic-portfolio.vercel.app)**
 
@@ -89,21 +89,21 @@ Real-time sensors, growth prediction & automated controls.
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jezeerahamed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jezeerahamed&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jezeerahamed&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&border_radius=20" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jezeerahamed&layout=compact&theme=radical&hide_border=true&langs_count=10&border_radius=20" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jezeerahamed&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=jezeerahamed&theme=radical&hide_border=true&border_radius=20" />
 </p>
 
-<!-- 🔥 NEW ANIMATION: Activity Graph -->
+<!-- 🔥 Animated Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jezeerahamed&theme=tokyonight&hide_border=true&radius=16&color=00FFAA&line=00FFAA&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jezeerahamed&theme=radical&hide_border=true&radius=20&color=00F5FF&line=7B00FF&point=FF00C8" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jezeerahamed&theme=tokyonight&no-bg=true&margin-w=15&row=1&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jezeerahamed&theme=radical&no-bg=true&margin-w=15&row=1&column=4&border_radius=20" />
 </p>
 
 ---
@@ -111,12 +111,12 @@ Real-time sensors, growth prediction & automated controls.
 ## 💡 What Makes Me Different
 
 Most developers just code.  
-**I teach + build + test with real A/L students every single day.**
+**I teach every day + build AI + test with real A/L students.**
 
-- Classroom-validated AI solutions  
-- Rare blend: **Physics Education + AI Engineering + Production Apps**  
-- Obsessed with **real impact** — not just GitHub stars  
-- Vision: Make **ICONIC ACADEMY** the Sri Lankan Khan Academy — powered by AI that understands our curriculum.
+- Classroom-validated solutions (not theory)  
+- Rare triple-threat: **Physics Education + AI Engineering + Production Apps**  
+- Obsessed with **measurable impact** in Sri Lankan education  
+- Vision: Turn **ICONIC ACADEMY** into South Asia’s smartest AI-powered Khan Academy.
 
 ---
 
@@ -130,10 +130,10 @@ Most developers just code.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=00FFAA,0A66C2&height=110&section=footer&text=Let%E2%80%99s%20build%20AI-powered%20education%20that%20actually%20works!&fontSize=24&fontColor=ffffff&animation=wave" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=00F5FF,7B00FF,FF00C8&height=120&section=footer&text=Let%E2%80%99s%20build%20AI-powered%20education%20that%20actually%20works!&fontSize=26&fontColor=FFFFFF&animation=wave" />
 </p>
 
 <p align="center">
   <strong>Made with ⚡ AI + ❤️ in Sri Lanka 🇱🇰</strong><br>
-  <em>Code fast. Teach better. Impact bigger.</em>
+  <em>Code at the speed of light. Teach with precision. Impact at scale.</em>
 </p>
