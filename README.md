@@ -1,18 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=00F5FF,7B00FF,FF00C8&height=340&section=header&text=%E2%9A%A1%20Jezeer%20Ahamed&fontSize=90&fontColor=FFFFFF&animation=wave&font=Poppins&desc=AI%20Builder%20%E2%80%A2%20Physics%20Educator%20%E2%80%A2%20Founder%20of%20ICONIC%20ACADEMY&descSize=26&descAlign=center&descColor=00F5FF" />
-</p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=jezeerahamed">
-    <img src="https://komarev.com/ghpvc/?username=jezeerahamed&label=Profile%20Views&color=00F5FF&style=for-the-badge&base=0" alt="Profile Views" />
-  </a>
-</p>
-
 <h1 align="center">⚡ Jezeer Ahamed</h1>
 <h3 align="center">AI Builder • Physics Educator • Founder of ICONIC ACADEMY</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=30&duration=1800&pause=900&color=00F5FF&center=true&vCenter=true&width=760&height=68&lines=Building+AI+for+Education;Physics+Made+Simple;Future+EdTech+Founder;Real+Impact%2C+Not+Just+Code;From+Classroom+to+Global+Scale;AI+that+understands+students" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=28&duration=2000&pause=800&color=00F5FF&center=true&vCenter=true&width=720&height=62&lines=Building+AI+for+Education;Physics+Made+Simple;Future+EdTech+Founder;Real+Impact%2C+Not+Just+Code;AI+that+understands+students" />
 </p>
 
 ---
